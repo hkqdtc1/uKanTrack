@@ -1,2 +1,2 @@
 # uKanTrack
-A indoor posistioning system to track people, work equipments and goods.
+An indoor posistioning system to track people, work equipments and goods.
