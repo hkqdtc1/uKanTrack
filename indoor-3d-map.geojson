@@ -51,7 +51,7 @@
       "properties": {
         "level": 1,
         "name": "Bird Exhibit",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -212,7 +212,7 @@
         ],
         "type": "Polygon"
       },
-      "id": "1ce4f8c186a40b9927006644e27bfd69"
+      "id": "1ce4f8c186a10b9927006644e27bfd69"
     },
     {
       "type": "Feature",
@@ -277,7 +277,7 @@
               41.866139
             ],
             [
-              -87.617407,
+              -87.617107,
               41.86615
             ],
             [
@@ -303,7 +303,7 @@
       "properties": {
         "level": 1,
         "name": "West Arch",
-        "height": 10
+        "height": 10,
         "base_height": 30,
         "color": "grey"
       },
@@ -323,7 +323,7 @@
               41.865799
             ],
             [
-              -87.617405,
+              -87.617105,
               41.865799
             ],
             [
@@ -334,14 +334,14 @@
         ],
         "type": "Polygon"
       },
-      "id": "402706f28b793d27c78d9615fff747f2"
+      "id": "102706f28b793d27c78d9615fff747f2"
     },
     {
       "type": "Feature",
       "properties": {
         "level": 1,
         "name": "Bird Exhibit",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -381,7 +381,7 @@
         "level": 1,
         "color": "grey",
         "base_height": 30,
-        "height": 40
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -418,7 +418,7 @@
         "level": 1,
         "color": "grey",
         "base_height": 30,
-        "height": 10
+        "height": 10,
         "name": "Arch"
       },
       "geometry": {
@@ -502,7 +502,7 @@
         "level": 1,
         "color": "grey",
         "name": "Arch",
-        "height": 10
+        "height": 10,
         "base_height": 30
       },
       "geometry": {
@@ -540,7 +540,7 @@
         "level": 1,
         "name": "Arch",
         "color": "grey",
-        "height": 10
+        "height": 10,
         "base_height": 30
       },
       "geometry": {
@@ -616,7 +616,7 @@
         "level": 1,
         "name": "Kids Zone",
         "height": 0,
-        "base_height": 10
+        "base_height": 10,
         "color": "grey"
       },
       "geometry": {
@@ -646,14 +646,14 @@
         ],
         "type": "Polygon"
       },
-      "id": "6bb2c92386bcf4678113d6b3e400ae3b"
+      "id": "6bb2c92386bcf4678113d6b3e100ae3b"
     },
     {
       "type": "Feature",
       "properties": {
         "level": 1,
         "name": "Under the Earth",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -691,7 +691,7 @@
       "properties": {
         "level": 1,
         "name": "Under the Earth",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -783,7 +783,7 @@
       "properties": {
         "level": 1,
         "name": "Ancient Egypt",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -795,7 +795,7 @@
               41.865799
             ],
             [
-              -87.617405,
+              -87.617105,
               41.86615
             ],
             [
@@ -829,7 +829,7 @@
       "properties": {
         "level": 1,
         "name": "Ancient Egypt",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -905,7 +905,7 @@
       "properties": {
         "level": 1,
         "name": "Kids Zone",
-        "height": 10
+        "height": 10,
         "base_height": 0,
         "color": "grey"
       },
@@ -997,7 +997,7 @@
       "properties": {
         "level": 1,
         "name": "East Arch",
-        "height": 10
+        "height": 10,
         "base_height": 30,
         "color": "grey"
       },
@@ -1028,7 +1028,7 @@
         ],
         "type": "Polygon"
       },
-      "id": "dd2baec57e4079eb65dcae5be495da62"
+      "id": "dd2baec57e1079eb65dcae5be495da62"
     },
     {
       "type": "Feature",
@@ -1036,7 +1036,7 @@
         "level": 1,
         "name": "outer-walls",
         "base_height": 0,
-        "height": 10
+        "height": 10,
         "color": "grey"
       },
       "geometry": {
