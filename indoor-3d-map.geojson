@@ -579,7 +579,7 @@
         "color": "grey",
         "name": "center_arch",
         "base_height": 30,
-        "height": 40
+        "height": 10
       },
       "geometry": {
         "coordinates": [
