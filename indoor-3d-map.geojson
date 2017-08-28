@@ -4,6 +4,98 @@
       "type": "Feature",
       "properties": {
         "level": 1,
+        "name": "Bird Exhibit",
+        "height": 0,
+        "base_height": 0,
+        "color": "orange"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -87.618312,
+              41.866282
+            ],
+            [
+              -87.61832,
+              41.866674
+            ],
+            [
+              -87.618087,
+              41.866676
+            ],
+            [
+              -87.618087,
+              41.866661
+            ],
+            [
+              -87.617423,
+              41.86667
+            ],
+            [
+              -87.617416,
+              41.8663
+            ],
+            [
+              -87.618312,
+              41.866282
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "06e8fa0b3f851e3ae0e1da5fc17e111e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 1,
+        "name": "Bird Exhibit",
+        "height": 10,
+        "base_height": 0,
+        "color": "grey"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -87.617808,
+              41.866266
+            ],
+            [
+              -87.617806,
+              41.866293
+            ],
+            [
+              -87.617415,
+              41.866298
+            ],
+            [
+              -87.617424,
+              41.866671
+            ],
+            [
+              -87.617382,
+              41.866669
+            ],
+            [
+              -87.617371,
+              41.866274
+            ],
+            [
+              -87.617808,
+              41.866266
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "08a10ab2bf15c4d14669b588062f7f08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 1,
         "name": "East Hallway",
         "base_height": 0,
         "height": 0,
@@ -209,6 +301,44 @@
     {
       "type": "Feature",
       "properties": {
+        "level": 1,
+        "name": "Bird Exhibit",
+        "height": 10,
+        "base_height": 0,
+        "color": "grey"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -87.618312,
+              41.866283
+            ],
+            [
+              -87.61797,
+              41.866288
+            ],
+            [
+              -87.617972,
+              41.866265
+            ],
+            [
+              -87.618312,
+              41.866259
+            ],
+            [
+              -87.618312,
+              41.866283
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "43e1e2fc8399dee075ad59764f2a2878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Kids Zone",
         "level": 1,
         "base_height": 0,
@@ -381,90 +511,6 @@
         "type": "Polygon"
       },
       "id": "91ab1ee01729c33568c7b57eb258e699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "level": 1,
-        "name": "Ancient Egypt",
-        "height": 10,
-        "base_height": 0,
-        "color": "grey"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -87.617394,
-              41.865799
-            ],
-            [
-              -87.617105,
-              41.86615
-            ],
-            [
-              -87.617802,
-              41.866147
-            ],
-            [
-              -87.6178,
-              41.866167
-            ],
-            [
-              -87.617369,
-              41.866172
-            ],
-            [
-              -87.617364,
-              41.865799
-            ],
-            [
-              -87.617394,
-              41.865799
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "943171d55d207024791e15294def7e8f"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "level": 1,
-        "name": "Ancient Egypt",
-        "height": 10,
-        "base_height": 0,
-        "color": "grey"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -87.617976,
-              41.866166
-            ],
-            [
-              -87.617976,
-              41.866143
-            ],
-            [
-              -87.618309,
-              41.866139
-            ],
-            [
-              -87.618309,
-              41.866161
-            ],
-            [
-              -87.617976,
-              41.866166
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "a37230898905988cab9b72927dc99258"
     },
     {
       "type": "Feature",
