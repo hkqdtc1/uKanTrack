@@ -51,7 +51,7 @@
       "properties": {
         "level": 1,
         "name": "Bird Exhibit",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -303,7 +303,7 @@
       "properties": {
         "level": 1,
         "name": "West Arch",
-        "height": 40,
+        "height": 10
         "base_height": 30,
         "color": "grey"
       },
@@ -341,7 +341,7 @@
       "properties": {
         "level": 1,
         "name": "Bird Exhibit",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -418,7 +418,7 @@
         "level": 1,
         "color": "grey",
         "base_height": 30,
-        "height": 40,
+        "height": 10
         "name": "Arch"
       },
       "geometry": {
@@ -502,7 +502,7 @@
         "level": 1,
         "color": "grey",
         "name": "Arch",
-        "height": 40,
+        "height": 10
         "base_height": 30
       },
       "geometry": {
@@ -540,7 +540,7 @@
         "level": 1,
         "name": "Arch",
         "color": "grey",
-        "height": 40,
+        "height": 10
         "base_height": 30
       },
       "geometry": {
@@ -616,7 +616,7 @@
         "level": 1,
         "name": "Kids Zone",
         "height": 0,
-        "base_height": 40,
+        "base_height": 10
         "color": "grey"
       },
       "geometry": {
@@ -653,7 +653,7 @@
       "properties": {
         "level": 1,
         "name": "Under the Earth",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -691,7 +691,7 @@
       "properties": {
         "level": 1,
         "name": "Under the Earth",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -783,7 +783,7 @@
       "properties": {
         "level": 1,
         "name": "Ancient Egypt",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -829,7 +829,7 @@
       "properties": {
         "level": 1,
         "name": "Ancient Egypt",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -905,7 +905,7 @@
       "properties": {
         "level": 1,
         "name": "Kids Zone",
-        "height": 40,
+        "height": 10
         "base_height": 0,
         "color": "grey"
       },
@@ -997,7 +997,7 @@
       "properties": {
         "level": 1,
         "name": "East Arch",
-        "height": 40,
+        "height": 10
         "base_height": 30,
         "color": "grey"
       },
@@ -1036,7 +1036,7 @@
         "level": 1,
         "name": "outer-walls",
         "base_height": 0,
-        "height": 40,
+        "height": 10
         "color": "grey"
       },
       "geometry": {
