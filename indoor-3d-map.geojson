@@ -591,10 +591,10 @@
     {
       "type": "Feature",
       "properties": {
-        "level": 1,
+        "level": 2,
         "name": "Kids Zone 2",
         "height": 10,
-        "base_height": 60,
+        "base_height": 30,
         "color": "white"
       },
       "geometry": {
