@@ -24,17 +24,17 @@ const routes = [
     children: [
       {
         path: 'dashboard',
-        name: 'Material Dashboard',
+        name: '信息总览',
         component: Dashboard
       },
       {
         path: 'stats',
-        name: 'stats',
+        name: '用户资料',
         component: UserProfile
       },
       {
         path: 'notifications',
-        name: 'notifications',
+        name: '系统消息',
         component: Notifications
       },
       {
@@ -44,7 +44,7 @@ const routes = [
       },
       {
         path: 'maps',
-        name: 'maps',
+        name: '地图监控',
         component: Maps
       },
       {
@@ -54,7 +54,7 @@ const routes = [
       },
       {
         path: 'table-list',
-        name: 'table-list',
+        name: '人员信息',
         component: TableList
       }
     ]

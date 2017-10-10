@@ -11,9 +11,28 @@ Object.keys(baseWebpackConfig.entry).forEach(function (name) {
   baseWebpackConfig.entry[name] = ['./build/dev-client'].concat(baseWebpackConfig.entry[name])
 })
 
+
 module.exports = merge(baseWebpackConfig, {
+  node: {
+    console: false,
+    fs: 'empty',
+    net: 'empty',
+    tls: 'empty'
+  },
   module: {
     rules: utils.styleLoaders({ sourceMap: config.dev.cssSourceMap })
+  },
+  {
+    loader: 'file-loader',
+    options: {
+      name: '../static/theme/2001/*.fmi'
+    }
+  },
+  {
+    loader: 'file-loader',
+    options: {
+      name: '../static/10347/10347.fmap'
+    }
   },
   // cheap-module-eval-source-map is faster for development
   devtool: '#cheap-module-eval-source-map',

@@ -3,6 +3,20 @@
     <div class="container-fluid">
       <div>
         <div class="row">
+
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <stats-card color="red">
+              <i slot="icon" class="material-icons">info_outline</i>
+              <div slot="title">
+                <p class="category">报警消息</p>
+                <h3 class="title">75</h3>
+              </div>
+              <div slot="footer">
+                <i class="material-icons text-danger">warning</i> 请及时处理报警信息
+              </div>
+            </stats-card>
+          </div>
+
           <div class="col-lg-3 col-md-6 col-sm-6">
             <stats-card>
               <i slot="icon" class="material-icons">content_copy</i>
@@ -29,19 +43,6 @@
               </div>
             </stats-card>
           </div>
-          <div class="col-lg-3 col-md-6 col-sm-6">
-            <stats-card color="red">
-              <i slot="icon" class="material-icons">info_outline</i>
-              <div slot="title">
-                <p class="category">Fixed Issues</p>
-                <h3 class="title">75</h3>
-              </div>
-              <div slot="footer">
-                <i class="material-icons">local_offer</i> Tracked from Github
-              </div>
-            </stats-card>
-          </div>
-
           <div class="col-lg-3 col-md-6 col-sm-6">
             <stats-card color="blue">
               <i slot="icon" class="fa fa-twitter"></i>

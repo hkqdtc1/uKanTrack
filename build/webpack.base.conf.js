@@ -26,6 +26,12 @@ var webpackConfig = {
       jquery: "jquery"
     })
   ],*/
+  node: {
+    console: false,
+    fs: 'empty',
+    net: 'empty',
+    tls: 'empty'
+  },
   resolve: {
     extensions: ['.js', '.vue', '.json'],
     modules: [

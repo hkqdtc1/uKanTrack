@@ -1,13 +1,13 @@
 <template>
   <div :class="sidebarClasses"
        :data-color="backgroundColor"
-       data-image="static/img/sidebar-1.jpg"
-       style="background-image: url(static/img/sidebar-1.jpg)"
+       data-image=""
+       style=""
        :data-active-color="activeColor">
 
     <div class="logo">
-      <a href="http://www.creative-tim.com" class="simple-text">
-        Creative Tim
+      <a class="simple-text">
+        宇康感知
       </a>
     </div>
     <div class="sidebar-wrapper">
@@ -49,7 +49,7 @@
         </router-link>
       </ul>
     </div>
-    <div class="sidebar-background" style="background-image: url(static/img/sidebar-1.jpg)"></div>
+    <div class="sidebar-background"></div>
   </div>
 </template>
 <script>
